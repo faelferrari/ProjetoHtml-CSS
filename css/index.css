@@ -1,0 +1,105 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #59a4c2;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.area-principal{   
+    display:flex;
+    width: 600px;
+    height: 450px;
+    background-color: aliceblue;       
+    border-radius: 10px;  
+}
+
+main{
+    width: 50%;
+    height: 50%;    
+    
+}
+.img-login{    
+    width: 50%;
+    height: 50%;
+    margin-top: 15%;
+  }
+
+ form{      
+       
+ } 
+
+ h1{   
+    text-align: center;
+ }
+
+ .p-main{    
+    text-align: center;
+    margin-bottom: 30px;
+ }
+ .p-bottom{   
+    margin: 0;
+    margin-top: 60px;
+    margin-left: 15%;
+    display: inline-flex;      
+    width:120px;
+ }
+
+ .input{    
+    width: 75%;
+    color: #cbcccc;
+    height: 30px;
+    margin-left: 2%;
+    margin-top: 15px;    
+    border-bottom-width: 1px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0; 
+    padding-left: 40px;
+ }
+
+
+ .btn-submit{
+     margin-top: 25px;
+     width:150px;
+     height: 35px;
+     background-color: #87cdeb;
+     border-radius: 15px;
+     color: white;
+     margin-left: 25%;
+ }
+
+ a{   
+    width: 80px;    
+    color: #87cdeb;
+    font-weight: bold;
+    text-decoration: none;
+ }
+
+ textarea:focus, input:focus, select:focus {
+    outline: 0;
+}
+
+.icone1{
+   width: 18px;
+   position: absolute;
+   margin-top: 22px;
+   margin-left: 10px;
+}
+.icone2{
+    width: 18px;
+    position: absolute;
+    margin-top: 68px;
+    margin-left: -264px;
+ }
+ .icone3{
+    width: 18px;
+    position: absolute;
+    margin-top: 66px;
+    margin-left: -264px;
+ }
+  
